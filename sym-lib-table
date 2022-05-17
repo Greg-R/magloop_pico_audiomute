@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MJ-3523-SMT")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/MJ-3523-SMT/MJ-3523-SMT.kicad_sym")(options "")(descr ""))
+  (lib (name "280370-1")(type "KiCad")(uri "/home/raven/gitrepos/pcb/downloaded_parts/280370-1/280370-1.kicad_sym")(options "")(descr ""))
+)
