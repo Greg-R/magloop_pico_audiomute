@@ -1319,10 +1319,6 @@
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 0df4e21b-e0d5-4c43-99fc-07b3ff9e029e)
   )
-  (text "Mute when +5V, audio passes through 0V." (at 52.07 119.38 0)
-    (effects (font (size 1.27 1.27) bold) (justify left bottom))
-    (uuid 389ca23b-cbc8-4a0e-9d4e-920c36913f7e)
-  )
   (text "Output Line Audio or Speaker" (at 204.47 58.42 0)
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 5dd0dfc1-7ccb-4d31-b8e1-651d7d8aa9a2)
@@ -1352,8 +1348,8 @@
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid ad810ef3-0c74-4b7c-817d-b34254efe2fa)
   )
-  (text "This is be the same signal as\nthe controller op-amp supply."
-    (at 52.07 124.46 0)
+  (text "The mute signal comes from the controller.\nThis signal goes high during auto-tune,\nthus muting the audio to prevent an annoying\ntone in the receiver output."
+    (at 49.53 125.73 0)
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid cdf50941-df22-432f-b575-8dbb1ea2e05a)
   )
