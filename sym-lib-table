@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "SJ-3524-SMT")(type "KiCad")(uri "${KIPRJMOD}/kicad_libraries/SJ-3524-SMT.kicad_sym")(options "")(descr ""))
+  (lib (name "J104D2C5VDC")(type "KiCad")(uri "${KIPRJMOD}/kicad_libraries/KiCAD/2022-08-16_15-35-27/2022-08-16_15-35-27.kicad_sym")(options "")(descr ""))
 )
